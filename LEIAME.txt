@@ -1,0 +1,27 @@
+	Para rodar este EP, as regras são
+apenas seguir a ordem oferecida pelo programa.
+
+1) O primeiro desejo do mesmo será que se coloque
+o valor de N, que é requisitado em todo o experimento.
+2) Logo após o valor de N, será requisitada a parte
+do programa que você utilizará, que está dividida no
+enunciado do EP, a primeira utiliza o método recursivo,
+a segunda o método matricial.
+	2.1a) Se você responder que quer rodar a parte 1,
+	será requisitado o valor de lambda, necessário para
+	aplicações em toda essa parte.
+		2.1b) Assim, ele te perguntará em qual item
+		você deseja trabalhar, ou seja, qual a função
+		esperada para ele realizar os cálculos de acordo
+		com o enunciado.
+	2.2a) Se você responder que deseja a parte 2 do
+	exercício, ele perguntará qual método você deseja
+	utilizar para resolução, se o de Crank, ou o de Euler,
+	para saber qual algoritmo usará.
+		2.2b) Logo após, ele requisitará sobre qual item
+	você deseja realizar os algoritmos, dentre as 3
+	funções disponíveis.
+3) Com isso, o console te entregará o erro máximo para esse N
+que foi colocado (caso item a ou b), e em todos os casos ele 
+monta um gráfico 3D com legenda, facilitando enxergar os
+resultados do experimento.
